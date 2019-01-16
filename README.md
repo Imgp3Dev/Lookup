@@ -6,4 +6,6 @@ pacman -S nim
 
 # Execute File
 ```nim run.nims```
-
+# Usage
+```import wikis
+ lookup("Nim Language")``
